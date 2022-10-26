@@ -5,7 +5,7 @@
 ## Ход работы
 - Разработаем пользовательский интерфейс и опишем пользовательские сценарии работы
 
-![Рис. 1 - Интерфейс](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81.png)
+![Рис. 1 - Интерфейс](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/интерфейс.png)
 
 Первоначально пользователь попадает на форму входа (sign-in.php). Затем, если у него есть аккаунт, то он вводит логин и пароль и входит в свой аккаунт, нажав кнопку “sing in”. В случае корректного ввода пользователь перенаправляется на главную страницу (index.php). Если же он ввел что-то неправильно, то возвращается на эту же страницу, но вверху будет написано сообщение о его ошибке.
 
@@ -18,7 +18,7 @@
 
 - Опишем хореографию
 
-![Рис. 2 - Хореография](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%A5%D0%BE%D1%80%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F.png)
+![Рис. 2 - Хореография](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Хореография.png)
 - Опишем структуру базы данных
 
 | Название | Тип данных | Длина | Описание                                          |
@@ -33,7 +33,7 @@
 
 1. Регистрируем пользователя (registration.php)
  
- ![](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.png)
+ ![](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Регистрация.png)
   
   2. Входим в аккаунт (auth.php)
   
@@ -41,15 +41,15 @@
   
   3. Выходим из аккаунта (exit.php)
   
-  ![](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%92%D1%8B%D1%85%D0%BE%D0%B4.png)
+  ![](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Выход.png)
   
   4. Меняем пароль, если мы его забыли (forgot_pass.php)
   
-  ![](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%97%D0%B0%D0%B1%D1%8B%D0%BB%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8C.png)
+  ![](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Забыл%20пароль.png)
   
   6. Меняем пароль, если мы вошли в аккаунт и захотели его сменить (change_pass.php)
   
-  ![](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%A1%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F.png)
+  ![](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Смена%20пароля.png)
 
 ## Вывод
 Спроектировали и разработали систему авторизации пользователей на протоколе HTTP
