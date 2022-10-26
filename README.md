@@ -37,7 +37,7 @@
   
   2. Входим в аккаунт (auth.php)
   
-  ![](https://github.com/AlDmitrieva/lab_1_auth/blob/main/%D0%92%D1%85%D0%BE%D0%B4.png)
+  ![](https://github.com/MAXKRUG24/LAB1_Kruglov/blob/main/Вход.png)
   
   3. Выходим из аккаунта (exit.php)
   
